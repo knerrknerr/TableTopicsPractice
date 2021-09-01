@@ -1,0 +1,1 @@
+This tool is designed to assist users in practicing impromptu speaking on arbitrary topics. While it was particularly designed with Table Topics in mind, it is not affiliated with Toastmasters International. 
